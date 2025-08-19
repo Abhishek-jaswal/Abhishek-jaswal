@@ -8,13 +8,12 @@
 
 ## 🧑‍💻 Professional Summary
 
-Full-Stack Developer with 2+ years of experience building scalable, production-grade web applications. Passionate about merging AI and web technologies to solve real-world problems. Currently working on a hyperlocal delivery app (**QuickBasket**) and an AI-powered interview preparation platform. Experienced in system design, GraphQL APIs, PostgreSQL, and frontend/backend integration. Always learning — currently exploring Rust for high-performance backend services.
-
+Full-Stack Developer with 3+ years of experience building scalable, production-grade web applications. Passionate about merging AI and web technologies to solve real-world problems. Currently working on a hyperlocal delivery app (QuickBasket) and an Real-Time Group & Private Chat App. Experienced in system design, GraphQL APIs, PostgreSQL, and frontend/backend integration. Always learning — currently exploring Rust for high-performance backend services.
 ---
 
 ## 🛠 Technical Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS , TypeScript
 - **Backend:** Node.js, Express.js, Django, Hasura (GraphQL), REST APIs  
 - **Database:** PostgreSQL, MySQL, MongoDB  
 - **Dev Tools & Platforms:** Git, GitHub, Postman, Docker, Railway, Vercel, Cloudinary, OpenAI APIs  
@@ -45,6 +44,10 @@ Full-Stack Developer with 2+ years of experience building scalable, production-g
 ---
 
 ## 🧳 Work Experience
+** Software Developer | Mountainkid.ai **
+*2024 – 2025*
+- Working on AI-powered nutrition solutions aimed at personalizing dietary recommendations
+- Contributed to UI/UX improvements in the web app using Next.js and Tailwind CSS
 
 **IT Trainer | CII-MCM Trust**  
 *2022 – 2024*  
