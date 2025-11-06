@@ -24,8 +24,8 @@ Hyperlocal delivery app using **Hasura GraphQL**, **Next.js**, and **PostgreSQL*
 ---
 
 ### 📊 GitHub Stats
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekjaswal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjaswal&layout=compact&theme=radical)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-jaswal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jaswal&layout=compact&theme=radical)
 
 ---
 
