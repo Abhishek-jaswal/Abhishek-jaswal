@@ -69,10 +69,8 @@ Hyperlocal delivery platform using **Hasura GraphQL + Next.js**.
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.com/api?username=Abhishek-jaswal&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.com/api/top-langs/?username=Abhishek-jaswal&layout=compact&theme=radical)
-
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-jaswal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jaswal&layout=compact&theme=radical)
 ---
 
 ## 📫 Connect With Me
