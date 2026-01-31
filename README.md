@@ -5,7 +5,7 @@
 I build **scalable, production-ready web applications** with a strong focus on performance, clean architecture, and real-world business use cases (CRM systems, dashboards, AI tools).
 
 🌍 **Open to Remote Roles (Global / India)**  
-🌐 https://thenorthhimalayas.com  
+🌐 https://abhishek-jaswal.vercel.app 
 📧 abhishekjaswal1122@gmail.com  
 
 ---
@@ -76,7 +76,7 @@ Hyperlocal delivery platform using **Hasura GraphQL + Next.js**.
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/abhishekjaswall 
-🌐 Portfolio: https://thenorthhimalayas.com  
+🌐 Portfolio: https://abhishek-jaswal.vercel.app 
 🐙 GitHub: https://github.com/abhishekjaswal  
 
 ---
