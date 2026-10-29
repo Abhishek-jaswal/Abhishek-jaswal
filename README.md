@@ -1,174 +1,107 @@
-<div align="center">
+<h1 align="center">Hi, I'm Abhishek Jaswal 👋</h1>
+<h3 align="center">Full-Stack Developer · Next.js · Node.js · PostgreSQL / Supabase</h3>
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Jaswal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Remote-Ready&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+<p align="center">
+  I build production web apps for real clients: hospital records, sales CRMs, marketplaces and AI tools.<br/>
+  From database schema and auth to UI, deployment and CI/CD.
+</p>
 
-</div>
-
-<div align="center">
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Platforms+%F0%9F%A4%96;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Rust;Open+to+Remote+Opportunities+%F0%9F%8C%8D;3%2B+Years+Shipping+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```typescript
-const abhishek = {
-  role:       "Full-Stack Developer",
-  experience: "3+ years",
-  location:   "Dharamshala, India 🏔️",
-  available:  true, // Open to Remote Roles
-
-  stack: {
-    frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Express", "REST APIs", "GraphQL"],
-    database:  ["PostgreSQL", "Supabase", "MySQL", "Hasura"],
-    devops:    ["Docker", "Vercel", "Railway", "AWS (Basics)"],
-    learning:  ["Rust 🦀"],
-  },
-
-  currentlyBuilding: "QuickBasket — Hyperlocal Delivery Platform",
-  superpower:        "Turning complex problems into clean, scalable systems",
-};
-```
+<p align="center">
+  <a href="https://abhishek-jaswal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/abhishekjaswall"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:abhignitejaswal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%7C%20Immediate-2ea44f?style=for-the-badge" alt="Open to work"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About me
 
-<div align="center">
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Currently Exploring**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</div>
+- 🚀 **1.5+ years** shipping full-stack apps that are live and used by real businesses
+- 🏥 Built a **role-based EHR** for an eye hospital, with access control enforced in the database (Supabase RLS)
+- 📈 Built a **sales CRM** that captures leads from WhatsApp and social media and distributes them round-robin in real time
+- 🤖 Integrating **AI (Google Gemini)** into products: resume analysis, interview question generation
+- 🎓 Spent **2.5 years as a full-stack trainer** and taught 60+ students, so I write code that others can read
+- 📍 Dharamshala, Himachal Pradesh, India · open to **remote full-stack / frontend roles** and freelance projects
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 AI Interview Portal</h3>
-      <p>AI-powered mock interview platform with resume-based question generation, real-time scoring, and GPT-driven feedback — helping developers land better jobs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <a href="https://ai-interview-platform-pied.vercel.app/">🔗 Live Demo</a>
-    </td>
-    <td width="50%">
-      <h3>💰 Fund Tracking Admin System</h3>
-      <p>Full-stack real-time fund management system with role-based dashboards, transaction analytics, WebSocket-like live updates, and a complete issue tracking system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <a href="https://www.alpkid.com/pro">🔗 Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏔️ The North Himalayas</h3>
-      <p>High-performance tourism platform with lead generation funnels, custom inquiry forms, and SEO-optimized pages — driving real booking conversions for a travel brand.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <a href="https://thenorthhimalayas.com/">🔗 Live Site</a>
-    </td>
-    <td width="50%">
-      <h3>🛒 QuickBasket <em>(In Progress)</em></h3>
-      <p>Hyperlocal delivery platform with real-time product listings, live order tracking, GraphQL-first architecture, and role-based access control built for scale.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/Abhishek-jaswal">🔧 In Development</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vite,tailwind,html,css&perline=9" alt="Frontend and languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,supabase,prisma,aws,docker,vercel,git,github&perline=12" alt="Backend, database and DevOps"/>
+</p>
+
+| Area | Tools |
+|---|---|
+| **Frontend** | React, Next.js, Vite, Tailwind CSS, Zustand, PWA |
+| **Backend** | Node.js, Express, FastAPI, REST APIs, WebSockets, JWT, OAuth |
+| **Database** | PostgreSQL, Supabase (Row-Level Security), MySQL, PocketBase, Prisma |
+| **Cloud & DevOps** | AWS EC2, Docker, Vercel, Railway, CI/CD |
+| **AI & Payments** | Google Gemini API, Razorpay |
 
 ---
 
-## 📊 GitHub Stats
+### 🌟 Featured projects
 
-<div align="center">
+#### 🏥 Batra Eye Hospital: Electronic Health Records (EHR) · [Live](https://batra-ehr.vercel.app)
+Covers patient registration, OPD queue, appointments, admissions, discharge, optical and document management. Installs as a PWA for the front desk and clinic.
+- 4 roles (Super Admin, Admin, Doctor, Reception) enforced **at the database level** with Supabase RLS, plus an audit log for sensitive actions
+- Schema evolved through **18 versioned SQL migrations** without losing anyone's access
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek-jaswal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-jaswal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
+`React` `Vite` `Supabase` `PostgreSQL` `Tailwind` `PWA`
 
-<br/>
+#### 📈 Family Tours & Travels: Booking Platform + Sales CRM · [Live](https://www.familytoursandtravels.com)
+A live tour-booking website plus a two-portal sales CRM (rep dashboard and admin portal).
+- Automatic lead capture from **WhatsApp and social media**
+- A **round-robin engine** that assigns incoming leads evenly across the sales team in real time, with conversion analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-jaswal&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff" height="165" />
+`Next.js` `TypeScript` `Node.js` `PocketBase` `PostgreSQL` `AWS EC2`
 
-</div>
+#### 🤖 Career Prep: AI Resume Analyzer & Mock Interview Platform · [Code](https://github.com/Abhishek-jaswal/ai-interview-platform)
+Two independently deployable services that share one JWT auth layer.
+- AI resume critique and dynamic MCQ generation with **Google Gemini**
+- A server-authoritative exam engine and a **Razorpay** pay-per-attempt credit system
 
----
+`FastAPI` `Node.js` `React` `TypeScript` `Prisma` `Gemini` `Razorpay`
 
-## 🏆 Work Experience Highlights
+#### 🛠️ UrbanServe: Multi-Service Marketplace · [Live](https://www.urbanserveu.com)
+Connects customers with verified local service providers, with JWT/OAuth login and Aadhaar-based provider verification.
 
-| 🏢 Company | 💼 Role | 📅 Period | 🔑 Key Impact |
-|---|---|---|---|
-| **Mountainkid.ai** | Software Intern | Mar–Aug 2025 | Built AI-integrated UI systems with Next.js for a live product |
-| **CII-MCM Trust** | IT Trainer – Fullstack | 2022–2024 | Designed curriculum & trained 100+ students in modern web dev |
-| **Maple Solutions** | Data Specialist | 2021–2022 | Automated workflows, processed 1000+ records using advanced Excel |
+`Next.js` `PocketBase` `AWS EC2` `PWA`
 
----
+#### 💬 Real-Time Chat App · [Live](https://abhishek-chat.vercel.app)
+Low-latency messaging with room-based channels and live presence tracking.
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abhishek--jaswal.vercel.app-a78bfa?style=for-the-badge&logoColor=white)](https://abhishek-jaswal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekjaswall)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhignitejaswal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-jaswal)
-
-</div>
+`Next.js` `WebSockets` `TypeScript` `Zustand`
 
 ---
 
-<div align="center">
+### 💼 Experience
 
-⭐ **Actively seeking Remote Full-Stack / Frontend roles**
-<br/>
-*Building real-world, scalable, and intelligent systems — one commit at a time.*
+| Role | Where | When |
+|---|---|---|
+| Freelance Full-Stack Developer | Remote | Dec 2025 – Present |
+| Software Developer Intern | Mountainkid.ai (Remote) | Mar 2025 – Sep 2025 |
+| IT Trainer (Full-Stack Development) | CII-MCM Trust, Dharamshala | Jun 2022 – Oct 2024 |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+---
 
-</div>
+### 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-jaswal&theme=github-compact&hide_border=true" alt="Contribution graph"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Need a web app, MVP or dashboard built? Hiring a full-stack developer?</b><br/>
+  📩 <a href="mailto:abhignitejaswal@gmail.com">abhignitejaswal@gmail.com</a> · 📞 +91-8894727339
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-jaswal&color=blue&style=flat-square&label=Profile+views" alt="Profile views"/>
+</p>
